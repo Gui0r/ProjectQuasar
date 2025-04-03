@@ -1,6 +1,8 @@
 # Project Quasar Documentation
 
-<img src="https://raw.githubusercontent.com/Gui0r/ProjectQuasar/main/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2019_15_44.png" alt="texto" width="300" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gui0r/ProjectQuasar/main/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2019_15_44.png" alt="texto" width="300" />
+</div>
 
 ## 1. Introduction
 
