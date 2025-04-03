@@ -1,5 +1,7 @@
 # Project Quasar Documentation
 
+![texto]([https://github.com/Gui0r/ProjectQuasar/blob/main/image1](https://github.com/Gui0r/ProjectQuasar/blob/main/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2019_15_44.png))
+
 ## 1. Introduction
 
 Project Quasar is an innovative initiative developed for a competition held at SENAC in Novo Hamburgo. The project focuses on enhancing the design and long-distance performance of a paper airplane through rigorous testing, aerodynamic optimizations, and iterative improvements.
