@@ -13,7 +13,7 @@
       <p><i>Modelo P2 - Segundo design, completamente diferente</i></p>
     </div>
      <div>
-      <img src="../Modelo3.jpg" alt="Modelo Delta" width="300" />
+      <img src="../Modelo3.jpeg" alt="Modelo Delta" width="300" />
       <p><i>Modelo Delta - Terçeiro design, Feito com folha colorida</i></p>
     </div>
   </div>
