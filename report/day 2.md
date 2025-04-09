@@ -12,6 +12,10 @@
       <img src="../p2.jpeg" alt="Modelo P2" width="300" />
       <p><i>Modelo P2 - Segundo design, completamente diferente</i></p>
     </div>
+     <div>
+      <img src="'../Modelo 3.jpg'" alt="Modelo Delta" width="300" />
+      <p><i>Modelo Delta - Terçeiro design, Feito com folha colorida</i></p>
+    </div>
   </div>
 
   <h3>Testes Comparativos</h3>
@@ -58,10 +62,27 @@ No segundo dia de testes, focamos no desenvolvimento e avaliação de diferentes
   - Ângulo de ataque: 15°
   - Material: Papel A4 80g/m²
 
-### Outros Modelos Testados
-- Modelo Delta (descartado)
-- Modelo Canard (descartado)
-- Modelo Dart (descartado)
+### Modelo Delta 🚀 (Descartado)
+- **Especificações Técnicas:**
+   - Envergadura: 24cm
+   - Peso: 5.1g
+   - Ângulo de Ataque: 18°
+   - Material: Folha colorida laranja A4 80g/m² + reforço com fita nas asas
+
+### Modelo Canard 🚀 (Descartado)
+- **Especificações Técnicas:**   
+    - Envergadura: 16cm
+    - Peso: 5.8g
+    - Ângulo de Ataque: 25°
+    - Material: Papel A4 80g/m² + reforço com fita na ponta
+
+### Modelo Dart 🚀 (Descartado)
+- **Especificações Técnicas:**
+    - Envergadura: 22cm
+    - Peso: 6.3g
+    - Ângulo de Ataque: 26°
+    - Material: Folha colorida verde A4 80g/m²
+
 
 ## 📊 3. Resultados e Análise
 
@@ -94,6 +115,28 @@ No segundo dia de testes, focamos no desenvolvimento e avaliação de diferentes
 - **Pontos de Melhoria:**
   - Requer técnica de lançamento específica
   - Menos estável que o P1
+
+#### Modelo Delta (Descartado)
+- **Pontos Fortes:**
+    - Design
+- **Pontos de Melhoria:**
+    - Simplificação do design
+    - Melhoria nas asas
+
+#### Modelo Canard (Descartado)
+- **Pontos Fortes:** 
+    - A aceleração incial do Canard foi maior que a do modelo P2
+- **Pontos de Melhoria:**
+    - Distribuição de peso desbalanceada, causando um voo turbulhento
+    - Uma asa maior que a outra
+
+#### Modelo Dart (Descartado)
+- **Pontos Fortes:** 
+    - Voo bastante linear
+    - Incialmente foi mais alto que todos os modelos
+- **Pontos de Melhoria:**
+    - Muito frágil
+    - Ficou inutilizável com poucos testes
 
 ## 🎯 4. Conclusões
 
