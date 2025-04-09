@@ -1,6 +1,26 @@
 # ✈️ Day 1 Testing Report
 
 <div align="center">
+  <h2>Modelo Inicial - P1</h2>
+  
+  <div style="display: flex; justify-content: center; margin: 20px 0;">
+    <div>
+      <img src="../p1.jpeg" alt="Modelo P1" width="300" />
+      <p><i>Modelo P1 - Nosso primeiro design</i></p>
+    </div>
+  </div>
+
+  <h3>Testes Iniciais</h3>
+  <div style="display: flex; justify-content: center; margin: 20px 0;">
+    <div>
+      <video width="320" height="240" controls>
+        <source src="../p1video.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+      </video>
+      <p><i>Primeiros testes com o Modelo P1</i></p>
+    </div>
+  </div>
+
   <img src="https://raw.githubusercontent.com/Gui0r/ProjectQuasar/main/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2019_15_44.png" alt="Avião de Papel" width="300" />
   
   [![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)](https://github.com/Gui0r/ProjectQuasar)

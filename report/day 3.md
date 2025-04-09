@@ -1,6 +1,37 @@
 # 🚀 Day 3 Testing Report
 
 <div align="center">
+  <h2>Modelos Otimizados</h2>
+  
+  <div style="display: flex; justify-content: space-around; margin: 20px 0;">
+    <div>
+      <img src="../p1.jpeg" alt="Modelo P1 Final" width="300" />
+      <p><i>Modelo P1 - Versão final otimizada</i></p>
+    </div>
+    <div>
+      <img src="../p2.jpeg" alt="Modelo P2 Final" width="300" />
+      <p><i>Modelo P2 - Versão final com técnica de lançamento adaptada</i></p>
+    </div>
+  </div>
+
+  <h3>Testes de Performance</h3>
+  <div style="display: flex; justify-content: space-around; margin: 20px 0;">
+    <div>
+      <video width="320" height="240" controls>
+        <source src="../p1video.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+      </video>
+      <p><i>Teste final do Modelo P1 alcançando 22.5m</i></p>
+    </div>
+    <div>
+      <video width="320" height="240" controls>
+        <source src="../p2video.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+      </video>
+      <p><i>Teste final do Modelo P2 alcançando 25m (limite da pista)</i></p>
+    </div>
+  </div>
+
   <img src="https://raw.githubusercontent.com/Gui0r/ProjectQuasar/main/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2019_15_44.png" alt="Avião de Papel" width="300" />
   
   [![Status](https://img.shields.io/badge/Status-Sucesso-green)](https://github.com/Gui0r/ProjectQuasar)

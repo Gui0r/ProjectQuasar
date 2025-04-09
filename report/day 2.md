@@ -1,7 +1,36 @@
 # 📊 Day 2 Testing Report
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gui0r/ProjectQuasar/main/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2019_15_44.png" alt="Avião de Papel" width="300" />
+  <h2>Comparação entre Modelos</h2>
+  
+  <div style="display: flex; justify-content: space-around; margin: 20px 0;">
+    <div>
+      <img src="../p1.jpeg" alt="Modelo P1" width="300" />
+      <p><i>Modelo P1 - Primeiro design desenvolvido</i></p>
+    </div>
+    <div>
+      <img src="../p2.jpeg" alt="Modelo P2" width="300" />
+      <p><i>Modelo P2 - Segundo design, completamente diferente</i></p>
+    </div>
+  </div>
+
+  <h3>Testes Comparativos</h3>
+  <div style="display: flex; justify-content: space-around; margin: 20px 0;">
+    <div>
+      <video width="320" height="240" controls>
+        <source src="../p1video.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+      </video>
+      <p><i>Teste do Modelo P1 - Design original</i></p>
+    </div>
+    <div>
+      <video width="320" height="240" controls>
+        <source src="../p2video.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+      </video>
+      <p><i>Teste do Modelo P2 - Novo design</i></p>
+    </div>
+  </div>
 </div>
 
 ## 🎯 1. Overview
